@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shabu Shabu Nomming</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Dec 2015 21:11:33 -0800</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2015 21:11:33 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Omnomnomnomnomnom</title>
+        <description>&lt;p&gt;The denizens of #arrakis on slashnet are going to join together and eat and drink until their bellies burst.
+The meal is all you can eat &amp;amp; drink for 1.5hrs so make sure to attend a safety meeting beforehand- you know… for safety.&lt;/p&gt;
+
+&lt;h3 id=&quot;house-of-mums&quot;&gt;House of Mums&lt;/h3&gt;
+
+&lt;h3 id=&quot;december-23-2015--730pm-pst&quot;&gt;December 23, 2015 @ 7:30PM PST&lt;/h3&gt;
+
+&lt;h3 id=&quot;ishperson&quot;&gt;$42ish/person&lt;/h3&gt;
+
+&lt;p&gt;In order to maintain a level of safety for everyone involved &lt;a href=&quot;https://youtu.be/KlujizeNNQM?t=10s&quot;&gt;this event adheres to a Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/2015/12/11/when.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/11/when.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
