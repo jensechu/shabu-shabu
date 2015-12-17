@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+
+        {% for post in site.posts %}
+           {% if post.page-category == "shabushabu" %}
+              <div class="post-container">
+
+                <h1 class="header-title">{{post.title}}</h1>
+
+                {{ post.content }}
+
+              </div>
+           {% endif %}
+        {% endfor %}
+
+        <div class="post-container">
+          <img src="http://45.media.tumblr.com/c43a368e34e6d0872cb4ec9cf9fa0083/tumblr_n1kt56LOJf1r8m6qio1_400.gif">
+        </div>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12612.579028353022!2d-122.4301574!3d37.7866472!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x71c8dc06311119b!2sMums+-+Home+of+Shabu-Shabu+(Cafe+Mums)!5e0!3m2!1sen!2sus!4v1450325000003" style="width: 100%; height: 350px;" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+      </div>
+    </div>
+
+  </body>
+
+</html>
